@@ -1,0 +1,23 @@
+Metadata-Version: 1.0
+Name: spc
+Version: 0.3
+Summary: Statistical Process Control library for monitoring process behaviour
+Home-page: http://pww.pw.pl/
+Author: Michal Nowikowski
+Author-email: godfryd@gmail.com
+License: MIT
+Description: Statistical Process Control library for monitoring process behaviour.
+Platform: Any
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Bug Tracking
+Classifier: Topic :: Education
+Classifier: Topic :: Scientific/Engineering :: Information Analysis
+Classifier: Topic :: Software Development :: Quality Assurance
